@@ -62,11 +62,13 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 
 **Q:** Which economic risks have been reported for electric vehicle companies entering the US market?
 
-**A:** **Competition from established hybrid models**: The report highlights the growing popularity of hybrid models, which could lead to increased competition for electric vehicle companies.
+**A:** 
 
-Risk Type: Industry
+Risk Type: Economic
 
-Risk Level: Medium
+Risk Level: High/Medium
+
+1) Dependence on Electricity Sources - The impact of electric vehicles (EVs) on reducing greenhouse gas emissions largely depends upon the region's electrical grid composition. In regions dominated by fossil fuels such as coal, EV charging might result in similar levels of CO₂ emission compared to conventional internal combustion engine vehicles. This uncertainty could negatively affect consumer perception towards EV brands and potentially limit growth opportunities.
 
 ## How to Run
 

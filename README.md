@@ -63,7 +63,9 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 **Q:** Which economic risks have been reported for electric vehicle companies entering the US market?
 
 **A:** **Competition from established hybrid models**: The report highlights the growing popularity of hybrid models, which could lead to increased competition for electric vehicle companies.
+
 Risk Type: Industry
+
 Risk Level: Medium
 
 ## How to Run

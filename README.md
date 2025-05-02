@@ -56,7 +56,7 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 | LLaMA 3.1B  | 0.47    | 0.35   | 0.79                | 25.4       |
 | GPT-2       | 0.39    | 0.28   | 0.68                | 31.2       |
 
-**Summary**: Mistral-7B generated the most relevant and faithful answers, with lower perplexity. LLaMA also performed well. GPT-2 was weakest.
+**Summary**: Although Mistral excelled slightly more in fluency, semantic relevance, and factual consistency, LLaMA 3.1 's superior precision and faithfulness make it the more suitable choice for a risk-assessment Q&A system, where factual accuracy and relevance are important. GPT-2 was weakest.
 
 ## Sample Q&A Outputs
 

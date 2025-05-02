@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project uses Natural Language Processing (NLP) and Large Language Models (LLMs) to automate market-entry risk analysis. By analyzing over 12,000 New York Times articles (2010–2020), the system identifies business risks across different geographies and industries. It includes both classification (risk type and level) and retrieval-augmented generation (RAG) for answering questions about market-entry risk.
+This project uses Natural Language Processing (NLP) and Large Language Models (LLMs) to automate market-entry risk analysis. By analyzing over 12,000 New York Times articles (2010–2020), the system identifies business risks across different geographies and industries. It includes both classification (risk level) and retrieval-augmented generation (RAG) for answering questions about market-entry risk.
 
 - **Research Paper**: [research_paper.pdf](./research_paper.pdf)  
 - **Implementation Notebook**: [code.ipynb](./code.ipynb)

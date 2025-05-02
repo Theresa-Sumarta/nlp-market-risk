@@ -10,7 +10,7 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 ## Key Features
 
 - **Risk Classification**  
-  Fine-tuned transformer models classify articles into risk types (e.g., Economic, Political) and levels (High, Medium, Low).
+  Fine-tuned transformer models classify articles into risk levels (High, Medium, Low).
 
 - **Question Answering (QA)**  
   A RAG pipeline retrieves relevant evidence and uses a language model to answer open-ended market-entry questions.

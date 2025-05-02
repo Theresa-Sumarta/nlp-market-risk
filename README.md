@@ -27,7 +27,7 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 - **Timeframe**: 2010–2020  
 - **Categories**: Economy, Technology, Global Business, Automobiles, Your Money, Real Estate  
 - **Size**: ~12,000 articles  
-- **Annotation**: 690 articles labeled with `risk_type` (Economic, Legal, Supply Chain, Political, Technological) and `risk_level` (High, Medium, Low)
+- **Annotation**: 690 articles labeled with`risk_level` (High, Medium, Low)
 
 ## Tasks
 

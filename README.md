@@ -52,8 +52,8 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 
 | Model       | ROUGE-L | METEOR | Faithfulness (NLI) | Perplexity |
 |-------------|---------|--------|---------------------|------------|
-| Mistral-7B  | 0.51    | 0.38   | 0.83                | 22.7       |
-| LLaMA 3.1B  | 0.47    | 0.35   | 0.79                | 25.4       |
+| Mistral-7B  | 0.51    | 0.38   | 0.79                | 22.7       |
+| LLaMA 3.1B  | 0.47    | 0.35   | 0.83                | 25.4       |
 | GPT-2       | 0.39    | 0.28   | 0.68                | 31.2       |
 
 **Summary**: Although Mistral excelled slightly more in fluency, semantic relevance, and factual consistency, LLaMA 3.1 's superior precision and faithfulness make it the more suitable choice for a risk-assessment Q&A system, where factual accuracy and relevance are important. GPT-2 was weakest.
@@ -61,6 +61,7 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 ## Sample Q&A Outputs
 
 **Q:** Which economic risks have been reported for electric vehicle companies entering the US market?
+
 **A:** **Competition from established hybrid models**: The report highlights the growing popularity of hybrid models, which could lead to increased competition for electric vehicle companies.
 Risk Type: Industry
 Risk Level: Medium
@@ -76,6 +77,7 @@ This project is implemented in a single notebook:
 ```bash
 git clone https://github.com/yourusername/market-risk-nlp.git
 cd market-risk-nlp
+```
 
 2. Install dependencies
 

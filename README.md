@@ -6,6 +6,7 @@ This project uses Natural Language Processing (NLP) and Large Language Models (L
 
 - **Research Paper**: [research_paper.pdf](./research_paper.pdf)  
 - **Implementation Notebook**: [code.ipynb](./code.ipynb)
+- **Presentation Slides**: [final_presentation.pdf](./final_presentation.pdf)
 
 ## Key Features
 
